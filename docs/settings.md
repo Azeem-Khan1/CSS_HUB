@@ -144,7 +144,7 @@ Set an integer > 0 to the amount of posts to show per page. Leave it blank if yo
 
 ```yaml
 # site.yml
-paginate: 12
+paginate: 15
 ```
 
 ## Social

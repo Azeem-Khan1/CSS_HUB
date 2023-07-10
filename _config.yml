@@ -1,8 +1,7 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Computer Science Society
+title: Computer Science Society
+description: To help beginners with the conceptual side of coding
 tags:
   - blog
   - template
