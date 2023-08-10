@@ -1,7 +1,7 @@
 # Site Settings
-name: Computer Science Society
+name: Jekflix
 title: Computer Science Society
-description: To help beginners with the conceptual side of coding
+description: Computer Science Society
 tags:
   - blog
   - template
@@ -28,7 +28,7 @@ formspree_form_id: formspree_form_id
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: TheoH32
+github_username: github_username
 facebook_username: facebook_username
 twitter_username: twitter_username
 instagram_username: instagram_username
