@@ -79,7 +79,7 @@ Example:
 
 ```yaml
 # site.yml
-email: youremail@xyz.com
+email: theo.h131@gmail.com
 ```
 
 #### `formspree_form_id `
