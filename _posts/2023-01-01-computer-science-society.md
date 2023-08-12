@@ -6,7 +6,7 @@ subtitle: 'To help with your CS needs'
 description: >-
   
 image: >-
-  /assets/img/delnorte.jpeg
+  {{ site.baseurl }}/assets/img/delnorte.jpeg
 category: blog
 tags:
   - welcome
@@ -15,7 +15,7 @@ author: Theo
 menu: true
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
+<img class="img-rounded" src="{{ site.baseurl }}/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
 
 # About
 
