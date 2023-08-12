@@ -2,7 +2,7 @@
 date: 2023-01-01 T23:48:05.000Z
 layout: page
 title: Computer Science Prep
-subtitle: 'To help with your CS needs'
+subtitle: 'To help with your comp sci needs'
 description: >-
   
 image: >-
