@@ -1,7 +1,7 @@
 ---
 date: 2023-01-01 T23:48:05.000Z
 layout: page
-title: Computer Science Society
+title: CSPrep
 subtitle: 'To help with your CS needs'
 description: >-
   
