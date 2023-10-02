@@ -1,5 +1,5 @@
 ---
-date: 2023-10-01
+date: 2022-10-01
 layout: post
 title: Agile Methodology Explained
 subtitle: So what is it anyway?
