@@ -34,7 +34,7 @@ Before we jump into Agile, here are some important words you should know:
 - **Frontend Developer:** This person will be designing everything the user can see and interact with. What the user can see and interact with is also called **User Experience and User Interface (UX/UI)**. This means all of the website layouts, buttons etc. that your user will use on your project.
 - **Backend Developer:** This person will be making everything the user can't see, but is still important. Some of these include things you may have already heard about, such as an **API**. The frontend and backend developers need to work very closely to make sure that both parts of the project work together to make one final project.
 - **DevOps:** This person will make sure the backend part of the project is on the Internet for the frontend developer to access. This is also called **backend deployment**. They will also make sure that everything is working as it needs to be.
-- **Notion, Milanote, Trello:** These are like special tools that help you and your team keep track of your project. It's like having a special notebook to write down your treehouse plans!
+- **GitHub Issues, GitHub Projects:** These are like special tools that help you and your team keep track of your project. It's like having a special notebook to write down your treehouse plans!
 
 ## Agile in Action
 
@@ -42,7 +42,7 @@ Imagine your treehouse project is your school assignment, and you want to finish
 
 ### 1. **Planning**
 
-Think of planning like making a list of what your treehouse needs - walls, a roof, a ladder, and so on. In Agile, we call this list a **backlog**. You can use tools like Notion, Milanote, or Trello to write it all down.
+Think of planning like making a list of what your treehouse needs - walls, a roof, a ladder, and so on. In Agile, we call this list a **backlog**. You can use tools like GitHub Issues or GitHub Projects to write it all down.
 
 ### 2. **Sprints**
 
@@ -77,6 +77,6 @@ Here's a simple Scrum Team Plan template you can use for your treehouse project:
 - **Sprint 3 Goal:** (e.g., Create a Ladder)
 - **Daily Standup Time:** (e.g., After school at the treehouse)
 
-You can use Notion, Milanote, or Trello to fill in the details and keep everything organized.
+You can use GitHub Issues or GitHub Projects to fill in the details and keep everything organized.
 
 So, there you have it, Agile made super easy! Just remember, Agile helps you and your team work together, plan well, and make amazing things, like your fantastic treehouse! 🌳🏠 Have fun on your Agile adventure!
